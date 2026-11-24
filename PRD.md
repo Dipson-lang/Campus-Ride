@@ -1,7 +1,6 @@
 # Product Requirements Document (PRD)
 
-## Babcock Campus Ride: A Ride-Hailing App for Babcock University Tricycles
-*(working title)*
+## Campus Ride: A Ride-Hailing App for Babcock University Tricycles
 
 **Group Name:** All Progressive Congress (APC)
 
